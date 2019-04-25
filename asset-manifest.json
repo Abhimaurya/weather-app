@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Abhimaurya/weather-app/static/css/main.ad7109bd.chunk.css",
-    "main.js": "/Abhimaurya/weather-app/static/js/main.6b133c76.chunk.js",
-    "main.js.map": "/Abhimaurya/weather-app/static/js/main.6b133c76.chunk.js.map",
-    "runtime~main.js": "/Abhimaurya/weather-app/static/js/runtime~main.66fd0120.js",
-    "runtime~main.js.map": "/Abhimaurya/weather-app/static/js/runtime~main.66fd0120.js.map",
-    "static/js/2.2d79568a.chunk.js": "/Abhimaurya/weather-app/static/js/2.2d79568a.chunk.js",
-    "static/js/2.2d79568a.chunk.js.map": "/Abhimaurya/weather-app/static/js/2.2d79568a.chunk.js.map",
-    "index.html": "/Abhimaurya/weather-app/index.html",
-    "precache-manifest.d4f0302cf73a49c974c643d0dac9b44d.js": "/Abhimaurya/weather-app/precache-manifest.d4f0302cf73a49c974c643d0dac9b44d.js",
-    "service-worker.js": "/Abhimaurya/weather-app/service-worker.js",
-    "static/css/main.ad7109bd.chunk.css.map": "/Abhimaurya/weather-app/static/css/main.ad7109bd.chunk.css.map"
+    "main.css": "weather-app/static/css/main.ad7109bd.chunk.css",
+    "main.js": "weather-app/static/js/main.10e1ab2c.chunk.js",
+    "main.js.map": "weather-app/static/js/main.10e1ab2c.chunk.js.map",
+    "runtime~main.js": "weather-app/static/js/runtime~main.95ac7386.js",
+    "runtime~main.js.map": "weather-app/static/js/runtime~main.95ac7386.js.map",
+    "static/js/2.2d79568a.chunk.js": "weather-app/static/js/2.2d79568a.chunk.js",
+    "static/js/2.2d79568a.chunk.js.map": "weather-app/static/js/2.2d79568a.chunk.js.map",
+    "index.html": "weather-app/index.html",
+    "precache-manifest.9930d4c52e867aa33fc204fc9e8ec514.js": "weather-app/precache-manifest.9930d4c52e867aa33fc204fc9e8ec514.js",
+    "service-worker.js": "weather-app/service-worker.js",
+    "static/css/main.ad7109bd.chunk.css.map": "weather-app/static/css/main.ad7109bd.chunk.css.map"
   }
 }
